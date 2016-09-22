@@ -1,3 +1,12 @@
 some text some text some text some text some text some text 
 some text some text some text some text some text some text some text 
 vvvvvfsdgsf;l sdsdd;sldv,dsl;,
+
+
+
+"Updating with Bash…"    "Updating with Bash…"
+"Updating with Bash…"
+"Updating with Bash…"
+"Updating with Bash…"
+"Updating with Bash…"
+
